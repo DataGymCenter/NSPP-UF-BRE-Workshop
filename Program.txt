@@ -1,1 +1,55 @@
+Workshop Program
+### Day 1
+Welcome and Introduction
+    9:00AM - 9:30AM: Welcome & Introduction
+        Understanding the Importance of Data
+        Goals of the Workshop
+        Agenda Walkthrough
+
+Excel for Data Analysis
+    9:30AM - 10:00AM: Introduction to Excel for Data Analysis
+        Key Excel Features: Data Preparations - Cleaning, and Structuring Data
+        Excel Data Validation: Ensuring Data Accuracy
+		Web Scraping with Excel
+
+    10:00AM - 10:30AM: Data Transformation and Naming Conventions and Advanced Excel Tools
+        Understanding and Using Naming Conventions
+        Data Transformation Techniques
+        Mapping in Excel
+        Using Add-ins for Extended Functionality   
+
+Introduction to RStudio	
+	10:30AM - 11:30AM: 
+        Getting Started with RStudio - GUI, tuning, packages, etc.
+        Basic Data Import in RStudio
+        Good R Programming Practices
+		Introduction to Data Visualization - Add-ins
+
+#### Day 2
+Deep Dive into RStudio
+    9:00AM - 9:30AM: Advanced RStudio Techniques
+        Data Visualization Techniques in RStudio
+
+    9:30AM - 10:00AM: Web App Development and Python Integration in RStudio
+        Using Linux in RStudio        
+		Examples of Web Applications with Shiny
+        Integrating Python in RStudio - Live demo
+
+Exploring Other Tools for Statistical Analysis
+    10:00AM - 10:30AM: Introduction to JASP, JAMOVI, BlueSky
+        - Key Features of JASP, JAMOVI, BlueSky
+
+    10:30AM - 11:00AM: Introduction to Exploratory and RawGraphs
+        - Key Features of Exploratory, and RawGraphs
+
+    11:00AM - 11:30AM: Introduction to SAS OnDemand
+        - Key Features of SAS OnDemand
+        - Hands-on Exercise with SAS OnDemand
+
+Workshop Conclusion and Next Steps
+    11:35AM ~ : Workshop Wrap-up
+        Recap of Key Takeaways
+        Open Q&A Session - To be continued on Telegram/WhatsApp
+        Feedback Collection 
+        Thank You and Workshop Conclusion
 
